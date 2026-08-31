@@ -3,13 +3,17 @@
 .holder {
 	width:100vw;
 	height:100vh;
+	justify-content:center;
+	align-items:center;
+	display:flex;
 	
 }
 .item-1 {
 	justify-content:center;
 	text-align:center;
 	background-color:red;
+	
 	height:100px;
 	width:100px;
-	margin:200px  auto;
+	
 }
